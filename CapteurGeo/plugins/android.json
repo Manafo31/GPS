@@ -1,0 +1,21 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-geolocation": {
+      "PACKAGE_NAME": "com.mesapplication.test"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.mesapplication.test"
+    },
+    "cordova.plugins.diagnostic": {
+      "PACKAGE_NAME": "com.mesapplication.test"
+    }
+  },
+  "dependent_plugins": {}
+}
