@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Geoloc/node_modules/cordova-android/framework/src"/>
+	<classpathentry kind="src" path="Geoloc/node_modules/cordova-android/spec/fixtures/org.test.plugins.dummyplugin/src/android"/>
+	<classpathentry kind="src" path="Geoloc/node_modules/cordova-android/spec/fixtures/org.test.plugins.faultyplugin/src/android"/>
+	<classpathentry kind="src" path="Geoloc/node_modules/cordova-android/test/app/src/androidTest/java"/>
+	<classpathentry kind="src" path="Geoloc/node_modules/cordova-android/test/app/src/main/java"/>
+	<classpathentry kind="src" path="Geoloc/node_modules/cordova-android/test/app/src/test/java"/>
+	<classpathentry kind="src" path="Geoloc/platforms/android/app/build/generated/source/buildConfig/debug"/>
+	<classpathentry kind="src" path="Geoloc/platforms/android/app/build/generated/source/r/debug"/>
+	<classpathentry kind="src" path="Geoloc/platforms/android/app/src/main/java"/>
+	<classpathentry kind="src" path="Geoloc/platforms/android/CordovaLib/build/generated/source/buildConfig/debug"/>
+	<classpathentry kind="src" path="Geoloc/platforms/android/CordovaLib/build/generated/source/r/debug"/>
+	<classpathentry kind="src" path="Geoloc/platforms/android/CordovaLib/src"/>
+	<classpathentry kind="lib" path="Geoloc/platforms/android/app/build/intermediates/transforms/desugar/debug/0.jar"/>
+	<classpathentry kind="lib" path="Geoloc/platforms/android/app/build/intermediates/transforms/dexBuilder/debug/1.jar"/>
+	<classpathentry kind="lib" path="Geoloc/platforms/android/app/build/intermediates/transforms/dexBuilder/debug/2.jar"/>
+	<classpathentry kind="lib" path="Geoloc/platforms/android/app/build/intermediates/transforms/dexBuilder/debug/3.jar"/>
+	<classpathentry kind="lib" path="Geoloc/platforms/android/app/build/intermediates/transforms/dexBuilder/debug/4.jar"/>
+	<classpathentry kind="lib" path="Geoloc/platforms/android/app/build/intermediates/transforms/dexBuilder/debug/5.jar"/>
+	<classpathentry kind="lib" path="Geoloc/platforms/android/app/build/intermediates/transforms/mergeJavaRes/debug/0.jar"/>
+	<classpathentry kind="lib" path="Geoloc/platforms/android/CordovaLib/build/intermediates/intermediate-jars/debug/classes.jar"/>
+	<classpathentry kind="lib" path="Geoloc/platforms/android/CordovaLib/build/intermediates/intermediate-jars/debug/res.jar"/>
+	<classpathentry kind="lib" path="Geoloc/platforms/android/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="output" path="Geoloc/platforms/android/CordovaLib/build/intermediates/classes/debug"/>
+</classpath>
