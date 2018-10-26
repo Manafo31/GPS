@@ -1,0 +1,126 @@
+@media screen and (min-width:668px) { 
+  img.col-xs-offset-0{
+    display:none;
+  }
+  form.col-xs-offset-0{
+    width: 100%;
+  }
+  #AppConnection{
+    font-family: sans-serif;
+    font-weight:bold;
+    margin-left: 45vh;
+  }
+
+  #AppReset{
+    font-family: sans-serif;
+    font-weight:bold;
+    margin-left: -10vh;
+  }
+
+  div.col-xs-6:nth-child(3){
+    margin-top: 5vh;
+  }
+
+  div.col-xs-6:nth-child(4){
+    margin-top: 5vh;
+  }
+
+  #pseud{
+    font-family: sans-serif;
+    font-weight:bold;
+    margin-left: 19vh;
+  }
+  
+  #pseudo{
+    margin-left: -30vh;
+  }
+  
+  #passe{
+    font-family: sans-serif;
+    font-weight:bold;
+    margin-left: 19vh;
+    margin-top: 2vh;
+  
+  }
+  
+  #pass{
+    margin-left: -30vh;
+    margin-top: 2vh;
+  }
+}
+
+img.col-xs-offset-0{
+  margin-top: 2vh;
+}
+
+body>form>fieldset>legend {
+  font-family: sans-serif;
+  font-weight: bold;
+  color:white;
+}
+
+form.col-xs-offset-0{
+  margin-top: 7vh;
+}
+
+.center_div{
+  margin-top:25%;
+}
+
+body {
+  margin-left:20px;
+  background: #0F2027;
+  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #2C5364, #203A43, #0F2027);
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #2C5364, #203A43, #0F2027);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+label{
+  color:white;
+	display: block;
+	width: 150px;
+	float: left;
+}
+
+#pseud{
+  font-family: sans-serif;
+  font-weight:bold;
+  margin-left: -2vh;
+}
+
+#pseudo{
+  margin-left: -8vh;
+}
+
+#passe{
+  font-family: sans-serif;
+  font-weight:bold;
+  margin-left: -2vh;
+  margin-top: 2vh;
+
+}
+
+#pass{
+  margin-left: -8vh;
+  margin-top: 2vh;
+}
+
+div.col-xs-6:nth-child(3){
+  margin-top: 3vh;
+}
+
+div.col-xs-6:nth-child(4){
+  margin-top: 3vh;
+}
+
+#AppConnection{
+  font-family: sans-serif;
+  font-weight:bold;
+}
+
+#AppReset{
+  font-family: sans-serif;
+  font-weight:bold;
+}

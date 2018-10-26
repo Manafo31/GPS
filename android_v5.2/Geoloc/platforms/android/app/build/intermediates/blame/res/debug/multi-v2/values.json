@@ -1,0 +1,136 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\31010-52-06\\Desktop\\filRouge\\android_v4\\Geoloc\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\31010-52-06\\Desktop\\filRouge\\android_v4\\Geoloc\\platforms\\android\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,2,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "158,55,99",
+                        "endColumns": "63,43,58",
+                        "endOffsets": "217,94,153"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,119,163",
+                        "endColumns": "63,43,58",
+                        "endOffsets": "114,158,217"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\31010-52-06\\Desktop\\filRouge\\android_v5.1\\Geoloc\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\31010-52-06\\Desktop\\filRouge\\android_v5.1\\Geoloc\\platforms\\android\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,2,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "158,55,99",
+                        "endColumns": "63,43,58",
+                        "endOffsets": "217,94,153"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,119,163",
+                        "endColumns": "63,43,58",
+                        "endOffsets": "114,158,217"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\31010-52-06\\Desktop\\filRouge\\android_v4.1\\Geoloc\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\31010-52-06\\Desktop\\filRouge\\android_v4.1\\Geoloc\\platforms\\android\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,2,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "158,55,99",
+                        "endColumns": "63,43,58",
+                        "endOffsets": "217,94,153"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,119,163",
+                        "endColumns": "63,43,58",
+                        "endOffsets": "114,158,217"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\31010-52-17\\CordovaApp\\android_v1\\Geoloc\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\31010-52-17\\CordovaApp\\android_v1\\Geoloc\\platforms\\android\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,2,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "158,55,99",
+                        "endColumns": "63,43,58",
+                        "endOffsets": "217,94,153"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,119,163",
+                        "endColumns": "63,43,58",
+                        "endOffsets": "114,158,217"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\31010-52-17\\CordovaApp\\android_v5.2\\Geoloc\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\31010-52-17\\CordovaApp\\android_v5.2\\Geoloc\\platforms\\android\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,2,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "158,55,99",
+                        "endColumns": "63,43,58",
+                        "endOffsets": "217,94,153"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,119,163",
+                        "endColumns": "63,43,58",
+                        "endOffsets": "114,158,217"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\31010-52-06\\Desktop\\filRouge\\android_v5\\Geoloc\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\31010-52-06\\Desktop\\filRouge\\android_v5\\Geoloc\\platforms\\android\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,2,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "158,55,99",
+                        "endColumns": "63,43,58",
+                        "endOffsets": "217,94,153"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,119,163",
+                        "endColumns": "63,43,58",
+                        "endOffsets": "114,158,217"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+html {
+    height: 100%
+}
+
+body {
+    height: 100%;
+    margin: 0;
+    padding: 0
+}
+
+#map {
+    width: 800px;
+    height: 680px;
+}
+
+div.container-fluid:nth-child(9) > div:nth-child(1) > div:nth-child(1){
+    height: 7.5vh;
+    background: linear-gradient(to bottom, #e0ddd9,#a8a095); 
+}
